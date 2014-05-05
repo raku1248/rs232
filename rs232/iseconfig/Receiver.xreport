@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2014-05-05T17:48:59</DateModified>
+  <DateModified>2014-05-05T18:46:16</DateModified>
   <ModuleName>Receiver</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
   <SavedFilePath>D:/PROGRAMOWANIE/Github/rs232/rs232/iseconfig/Receiver.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>D:/PROGRAMOWANIE/Github/rs232/rs232</ImplementationReportsDirectory>
+  <ImplementationReportsDirectory>D:/PROGRAMOWANIE/Github/rs232/rs232\</ImplementationReportsDirectory>
   <DateInitialized>2014-05-05T17:48:58</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
