@@ -8,7 +8,7 @@ entity filter is
 	PORT(
 		clk_i : IN STD_LOGIC;
 		button : IN STD_LOGIC;
-		Output : OUT STD_LOGIC:= '0'
+		Output : OUT STD_LOGIC:= '1'
 		);
 end filter;
 

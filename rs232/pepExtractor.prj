@@ -1,0 +1,6 @@
+work	"adder.vhd"
+work	"debounce.vhd"
+work	"emitter.vhd"
+work	"reciever.vhd"
+work	"synchronizer.vhd"
+work	"topmod.vhd"

@@ -1,0 +1,36 @@
+V3 23
+FL D:/PROGRAMOWANIE/Github/rs232/rs232/adder.vhd 2014/05/12.17:37:26 P.20131013
+EN work/adder 1399912965 FL D:/PROGRAMOWANIE/Github/rs232/rs232/adder.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/adder/Behavioral 1399912966 \
+      FL D:/PROGRAMOWANIE/Github/rs232/rs232/adder.vhd EN work/adder 1399912965
+FL D:/PROGRAMOWANIE/Github/rs232/rs232/debounce.vhd 2014/05/11.13:06:21 P.20131013
+EN work/filter 1399912961 FL D:/PROGRAMOWANIE/Github/rs232/rs232/debounce.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/filter/Behavioral 1399912962 \
+      FL D:/PROGRAMOWANIE/Github/rs232/rs232/debounce.vhd EN work/filter 1399912961
+FL D:/PROGRAMOWANIE/Github/rs232/rs232/emitter.vhd 2014/05/12.17:45:47 P.20131013
+EN work/transmitter 1399912967 FL D:/PROGRAMOWANIE/Github/rs232/rs232/emitter.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/transmitter/Behavioral 1399912968 \
+      FL D:/PROGRAMOWANIE/Github/rs232/rs232/emitter.vhd EN work/transmitter 1399912967
+FL D:/PROGRAMOWANIE/Github/rs232/rs232/reciever.vhd 2014/05/12.18:41:37 P.20131013
+EN work/Receiver 1399912963 FL D:/PROGRAMOWANIE/Github/rs232/rs232/reciever.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/Receiver/Behavioral 1399912964 \
+      FL D:/PROGRAMOWANIE/Github/rs232/rs232/reciever.vhd EN work/Receiver 1399912963 \
+      CP synchronizer CP filter
+FL D:/PROGRAMOWANIE/Github/rs232/rs232/synchronizer.vhd 2014/05/11.00:52:38 P.20131013
+EN work/synchronizer 1399912959 \
+      FL D:/PROGRAMOWANIE/Github/rs232/rs232/synchronizer.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/synchronizer/Behavioral 1399912960 \
+      FL D:/PROGRAMOWANIE/Github/rs232/rs232/synchronizer.vhd \
+      EN work/synchronizer 1399912959
+FL D:/PROGRAMOWANIE/Github/rs232/rs232/topmod.vhd 2014/05/12.18:42:32 P.20131013
+EN work/RS232_MODULE 1399912969 FL D:/PROGRAMOWANIE/Github/rs232/rs232/topmod.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/RS232_MODULE/Behavioral 1399912970 \
+      FL D:/PROGRAMOWANIE/Github/rs232/rs232/topmod.vhd EN work/RS232_MODULE 1399912969 \
+      CP Receiver CP adder CP transmitter
