@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -o "D:/PROGRAMOWANIE/Github/rs232/rs232/ModuleTB_isim_beh.exe" -prj "D:/PROGRAMOWANIE/Github/rs232/rs232/ModuleTB_beh.prj" "work.ModuleTB" 

@@ -2,6 +2,11 @@ library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.STD_LOGIC_UNSIGNED.ALL;
 
+--------------------------------------------------------------
+--Component eliminates signal peaks after the change
+--
+--------------------------------------------------------------
+
 entity filter is
 	GENERIC(
 		counter_size : INTEGER := 8);	-- 8 bits -> 50 Mhz --> 5.12 us lock

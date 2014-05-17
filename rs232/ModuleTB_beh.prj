@@ -1,7 +1,0 @@
-vhdl work "synchronizer.vhd"
-vhdl work "debounce.vhd"
-vhdl work "reciever.vhd"
-vhdl work "emitter.vhd"
-vhdl work "adder.vhd"
-vhdl work "topmod.vhd"
-vhdl work "ModuleTB.vhd"

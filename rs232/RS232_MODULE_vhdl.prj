@@ -1,6 +1,0 @@
-vhdl work "D:\PROGRAMOWANIE\Github\rs232\rs232\synchronizer.vhd"
-vhdl work "D:\PROGRAMOWANIE\Github\rs232\rs232\debounce.vhd"
-vhdl work "D:\PROGRAMOWANIE\Github\rs232\rs232\reciever.vhd"
-vhdl work "D:\PROGRAMOWANIE\Github\rs232\rs232\emitter.vhd"
-vhdl work "D:\PROGRAMOWANIE\Github\rs232\rs232\adder.vhd"
-vhdl work "D:\PROGRAMOWANIE\Github\rs232\rs232\topmod.vhd"
